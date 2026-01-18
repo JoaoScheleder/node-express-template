@@ -43,7 +43,7 @@ npm install
 │   └── server.ts        # Server entry point
 ├── dist/                # Compiled JavaScript (generated)
 ├── coverage/            # Test coverage reports (generated)
-├── .eslintrc.json       # ESLint configuration
+├── eslint.config.mjs    # ESLint configuration
 ├── .gitignore           # Git ignore rules
 ├── jest.config.js       # Jest configuration
 ├── tsconfig.json        # TypeScript configuration
